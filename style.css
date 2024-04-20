@@ -8,6 +8,11 @@ body {
     color: white;
 }
 
+.logo {
+    width: 2%;
+    cursor: pointer;
+}
+
 nav {
     display: flex;
     justify-content: space-around;
@@ -129,11 +134,11 @@ main hr{
 }
 footer{
     background-color: rgb(25 25 50);
-    height: 95px;
+    height: 82px;
 }
 .footer{
     display: flex;
-    margin: 23px -152px;  /*23px--->top bottom 122px---> left right sarkana hai tho*/
+    margin: 23px -122px;  /*23px--->top bottom 122px---> left right sarkana hai tho*/
     justify-content: space-evenly;
 }
 .footer ul{
